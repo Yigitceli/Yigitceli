@@ -16,7 +16,8 @@ i can speak English enough and enough but not as good as English, some French an
 
 - 📫 How to reach me:
 
-You can reach me from my email: Yigit.celi@outlook.com. \b
+You can reach me from my email: Yigit.celi@outlook.com.
+
 Also my Instagram: https://www.instagram.com/ybalceli
 
 
