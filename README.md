@@ -3,7 +3,7 @@
 Passionate Front-End Developer with more than 1 year of professional experience in crafting user-centric web experiences. I'm on a journey to bridge the gap between technology and creativity while bringing my enthusiasm for video games into the mix.
 
 🚀 **My Expertise:**
-- React.js, Redux.js, HTML, CSS, JavaScript: Building seamless and engaging user interfaces that marry functionality with aesthetics.
+- React.js, Redux.js, HTML, JavaScript, Typescript, SCSS, SASS: Building seamless and engaging user interfaces that marry functionality with aesthetics.
 - Problem-Solving: A proactive thinker with meticulous attention to detail, dedicated to enhancing user experiences through optimized solutions.
 - Collaboration: Thriving in cross-functional teams, leveraging strong communication skills to ensure success through teamwork.
 
