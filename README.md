@@ -1,26 +1,28 @@
-- 👋 Hi, I’m @Yigitceli, well my friends call me as Yiğit. I am currently studying Translation and Interpreting at Bilkent University but also taking online
-courses to learn full-stack web development. I took my first step to become a developer 1 years ago and now i can call my self a full-stack web developer.
+## Hey there! 👋 I'm Cemal Yiğit Balceli
 
-**************************
+Passionate Front-End Developer with more than 1 year of professional experience in crafting user-centric web experiences. I'm on a journey to bridge the gap between technology and creativity while bringing my enthusiasm for video games into the mix.
 
-- 👀 I’m interested in Video Games, Basketball, Movies, Technology, Web Development and also Video Game Development but i don't know much about Vide Game Development for now. I have been involved with computers since I was little. I could solve all of the computer
-problems which i encountered as i was even child with some google research. 
+🚀 **My Expertise:**
+- React.js, Redux.js, HTML, CSS, JavaScript: Building seamless and engaging user interfaces that marry functionality with aesthetics.
+- Problem-Solving: A proactive thinker with meticulous attention to detail, dedicated to enhancing user experiences through optimized solutions.
+- Collaboration: Thriving in cross-functional teams, leveraging strong communication skills to ensure success through teamwork.
 
-**************************
+💡 **Highlights:**
+- Successfully developed and implemented innovative features using React.js and Redux.js, enhancing user experiences in applications.
+- Contributed to improving website performance and resolving critical bugs, creating smooth and immersive user journeys.
+- Proven adaptability in learning new technologies like PHP and Laravel for backend projects.
+- Commended for excellent communication skills, crafting tailored solutions that exceed client expectations.
 
-- 🌱 I’m currently learning PERN stack which means PostgreSQL, REACT.js, EXPRESS.js, NODE.js. Actually i have already learned this stack but like every develoepr i have to pratice
-more and more to become better. Also, i'm studying at Bilkent University in Translation and Interpreting which is good because i learned French apart from English, so that means 
-i can speak English enough and enough but not as good as English, some French and i can also speak my Native language Turkish.
+🎓 **Education & Certificates:**
+- Full-Stack (PERN) Developer Bootcamp - Codecademy
+- Computer Science Bootcamp - Codecademy
+- Full Stack Developer 2-stage Course - Siliconmade Academy
+- B.A. Translation and Interpretation (French-English-Turkish) - Bilkent University
 
-***************************
+🔗 **Connect with Me:**
+Let's collaborate on crafting immersive web experiences together! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/yigitceli/).
 
-- 📫 How to reach me:
+✨ **Passionate About Gaming:**
+Being an avid video game enthusiast, I'm excited about merging my professional skills with my love for gaming. I believe that the principles of captivating game design can be harnessed to create amazing user experiences in web development.
 
-You can reach me from my email: Yigit.celi@outlook.com.
-
-Also my Instagram: https://www.instagram.com/ybalceli
-
-
-***************************
-
-
+Thanks for stopping by! Let's make the web a more engaging and user-friendly place together.
