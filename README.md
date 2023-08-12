@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Cemal Yiğit Balceli
+## Hey there! 👋 I'm Yiğit Balceli
 
 Passionate Front-End Developer with more than 1 year of professional experience in crafting user-centric web experiences. I'm on a journey to bridge the gap between technology and creativity while bringing my enthusiasm for video games into the mix.
 
