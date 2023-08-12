@@ -7,6 +7,10 @@ Passionate Front-End Developer with more than 1 year of professional experience 
 - Problem-Solving: A proactive thinker with meticulous attention to detail, dedicated to enhancing user experiences through optimized solutions.
 - Collaboration: Thriving in cross-functional teams, leveraging strong communication skills to ensure success through teamwork.
 
+📱 **Mobile Development Skills:**
+- Flutter: Exploring the world of mobile app development using the Flutter framework.
+- Swift: Gaining familiarity with iOS app development using Swift, driven by my passion for creating impactful user experiences.
+
 💡 **Highlights:**
 - Successfully developed and implemented innovative features using React.js and Redux.js, enhancing user experiences in applications.
 - Contributed to improving website performance and resolving critical bugs, creating smooth and immersive user journeys.
