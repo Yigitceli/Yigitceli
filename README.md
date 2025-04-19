@@ -1,29 +1,57 @@
-👋 Hi, I'm Yiğit Balceli – Full Stack Developer | AI Integrator | DevOps Enthusiast
-I’m a Full Stack Developer with a passion for building scalable, high-performance web applications and integrating AI-driven automation into modern solutions. With hands-on experience in both frontend and backend technologies, I craft seamless digital experiences from UI to server-side logic. Currently, I’m working as a Full Stack Web & DevOps Developer and building a Roblox game with my team as a side project.
+# 👋 Hi, I'm Yiğit Balceli  
+**Full Stack Developer | AI Integrator | DevOps Enthusiast**
 
-🧠 What I Do Best:
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS – Building beautiful, fast, and responsive UIs.
+I'm a passionate Full Stack Developer focused on building **scalable**, **high-performance** web applications and integrating **AI-driven automation** into modern platforms. I work across the full stack—from sleek, responsive UIs to robust, production-ready backends and DevOps pipelines.
 
-Backend: Python (FastAPI), REST APIs, Redis, PostgreSQL – Designing scalable APIs and data pipelines.
+Currently, I'm working as a **Full Stack Web & DevOps Developer**, and also leading a side project developing a **Roblox game** with my team.
 
-AI & Automation: LLM integration, AI agents, data scraping bots – Automating tasks and enhancing user workflows with intelligent systems.
+---
 
-DevOps: AWS (ECS, S3, Cognito), Docker, CI/CD pipelines – Ensuring smooth and reliable deployments.
+## 🚀 Tech Stack
 
-🎮 Game Dev Side Quest:
-Currently leading a small dev team building our first Roblox game – working on both gameplay logic and backend systems.
+**Frontend:**  
+React.js · Next.js · TypeScript · Tailwind CSS · SCSS · Redux
 
-🚀 Projects & Achievements:
-Developed AI-powered web applications with custom scraping agents and FastAPI backends.
+**Backend:**  
+Python (FastAPI) · REST APIs · Redis · PostgreSQL · Web Scraping Bots
 
-Built SEO-optimized Next.js platforms with real-time features and dynamic UIs.
+**AI & Automation:**  
+LLM Integration · AI Agents · Prompt Engineering · Workflow Automation
 
-Architected scalable solutions using AWS services and containerized deployments with Docker.
+**DevOps:**  
+AWS (ECS, S3, Cognito) · Docker · CI/CD · GitHub Actions · Bitbucket Pipelines
 
-Led backend redesigns to boost performance and maintainability.
+---
 
-📚 Always Learning:
-Whether it’s diving deeper into DevOps or experimenting with LLM-powered agents, I love exploring the frontier of what's possible in web and AI development.
+## 🎮 Side Quest: Game Dev
+I'm currently leading the development of a Roblox game with a team of 5 (3 devs, 2 designers).  
+We're combining gameplay design with scalable backend architecture to build a unique multiplayer experience.
 
-🔗 Let’s Connect!
-Check out my projects or reach out to collaborate on anything from SaaS platforms to AI integrations or game dev.
+---
+
+## 🧠 Highlights & Projects
+
+- 🧠 Built AI-powered tools using LLMs (ChatGPT-like agents) for smart automation and knowledge processing.  
+- 🌐 Developed SEO-optimized, high-performance web apps with dynamic content and fast rendering using Next.js.  
+- 🔧 Created scalable backend systems using FastAPI, Docker, and AWS for various SaaS-style applications.  
+- 🕹️ Architected and coded game logic for our Roblox project with live multiplayer features.  
+- 🔄 Designed automation pipelines with Python and cloud infrastructure for efficiency and reliability.
+
+---
+
+## 📚 Certifications & Education
+
+- **Full-Stack (PERN) Developer Bootcamp** – Codecademy  
+- **Computer Science Bootcamp** – Codecademy  
+- **Full Stack Developer Course (2-stage)** – Siliconmade Academy  
+- **B.A. Translation and Interpretation (French-English-Turkish)** – Bilkent University
+
+---
+
+## 🌍 Let’s Connect!
+
+📫 [LinkedIn](https://www.linkedin.com/in/yigitceli/)  
+💻 Always open to collaborating on cutting-edge web platforms, AI-powered tools, or creative side projects.  
+Let’s build something amazing together!
+
+---
